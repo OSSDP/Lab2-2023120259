@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
-
+// 添加注释-张嘉夫-2023120260
 /*
  * 测试用例设计总体原则
  * 1. 等价类划分：分为有效输入（包含正常数字组合）和无效输入（全为 0 的特殊情况）。
